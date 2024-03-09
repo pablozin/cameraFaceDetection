@@ -1,2 +1,2 @@
-# cameraFaceDetection
-Project in Java using OpenCV
+# Face Detection
+Project in Java using OpenCV.
